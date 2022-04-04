@@ -1,0 +1,3 @@
+Coding question
+1. two sum problem leetcode
+2. prime number - find if n is prime number or not

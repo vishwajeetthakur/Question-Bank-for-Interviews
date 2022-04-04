@@ -1,0 +1,1 @@
+1. how would you optimize sql query/if query runs slow, how will you fix it
