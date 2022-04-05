@@ -1,0 +1,6 @@
+Coding question 4 in 30 minutes
+1. Count of character in a string (iterative and dictonary)
+2. Get max from array, without using max fucntion
+3. Usling list compherension find all even numbers
+4. using lambda fucntion find all non negative even numbers
+
