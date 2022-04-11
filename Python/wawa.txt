@@ -1,0 +1,41 @@
+1- python coding 
+--> given a file in this format
+ram
+shyaam
+suresh
+mukesh
+dhwani
+shekar
+
+--> you need to read this file and print last 3 words read 
+
+soln --> used queue to store last 3 encountred words....and popping(0) from queue if len of queue exceeds 3
+
+--> follow up --> make this dynamic i.e print last k words 
+--> f = data.readlines() --> is in memory ... if data is large it will fail and soln
+soln --> use with open as file and for line in file:
+
+--> how would you write test autmoated, if file is not there 
+soln use patching 
+
+--> how would you make it more testable
+soln --> keep with open in different fucntion and segregate logic
+
+
+
+OTHER question
+--> interview was heavily based on devops , kubernetes, eks , docker file, optimize images, scaling pods in kubernetes 
+--> iam vs bucket ploicy , what is pod, how to maange pod better with eks for security 
+--> a Pod can contain more than one container, if these containers are relatively tightly coupled.
+--> security of container
+Best practices
+As a developer, you can take a few simple steps to improve the security of your container. This includes:
+
+Choosing the right base image from a trusted source and keeping it small
+Using multi-stage builds
+Rebuilding images
+Scanning images during development
+Scanning images during production
+
+
+--> 
