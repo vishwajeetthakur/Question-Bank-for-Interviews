@@ -36,6 +36,3 @@ Using multi-stage builds
 Rebuilding images
 Scanning images during development
 Scanning images during production
-
-
---> 

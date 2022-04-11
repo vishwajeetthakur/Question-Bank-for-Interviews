@@ -1,0 +1,5 @@
+4 SQl question --- 2 talbes accounts, transction
+--> select all accounts whose acc no starts wth 9
+--> sort by account number and group them
+--> use puter join , and fetch all account number for which here is no tranction happen
+--> update col, and set new value 

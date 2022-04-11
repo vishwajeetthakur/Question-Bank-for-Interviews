@@ -1,0 +1,16 @@
+#vendor TEK system
+5 SQL question + 4 python question --> on theri shared screen
+
+--> given a code templateof a class, we need to make obejct and call the fucntion to get required output
+--> written a decorater , modify code to attach the fucntion tothe decoreter --> using @decorater_name
+--> given a api, call it and see paticular pages - on which date is 2022-04-08
+    requests.get("https://djkfhdfjhdfk?API_KEY = xxxxxxx%date='2022-04-08'") 
+
+--> given a file read it ["aaaa|dcfg|dff" ,"aaaa|dcfg|dff", "aaaa|dcfg|dff" ], reverse
+    everything except the middle coln for each string , coln is seperated by | pipe
+
+4 SQl question --- 2 talbes accounts, transction
+--> select all accounts whose acc no starts wth 9
+--> sort by account number and group them
+--> use puter join , and fetch all account number for which here is no tranction happen
+--> update col, and set new value 
