@@ -68,7 +68,8 @@ SQL query(based on joining multiple tables at the same time to get desired outpu
 # EAB:-
 
 # Nike:-
-
+	1. Fibonacci series ANS: we iterative method 
+	2. finding the max repeated number in array. ANS we dict to count the numbers then find max frequency number.
 # Tech Holding:-
   1, Count Frequency of words in string.
   2) highest and second highest element on array.
