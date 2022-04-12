@@ -1,5 +1,4 @@
 # Question-Bank-for-Interviews
-# Question-Bank-for-Interviews
 				                              Question bankfor java and python
 # Costco travel :-
 1. Access the HTML Element in its attribute to JavaScript, and some cross questions were there and DOM manipulations.
