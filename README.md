@@ -147,19 +147,23 @@ Output: false
 	
 
 # Expedia:-
-  Question :-Given an array of integers, and a number ‘sum’, print all pairs in the array whose sum is equal to ‘sum’.
+  Question 1. :-Given an array of integers, and a number ‘sum’, print all pairs in the array whose sum is equal to ‘sum’.
   question: given a string print all non repeating characters.
 
-  Question :- Fetch Item to display (Amazon, online assessment question) Disc	 	:-There will be a list of items in the form of a 2dimensional string array where each element contains [name, relevance, price). Given the sort column, the sort order (0: ascending, 1: descending), the number of items to be displayed on each page (except for the last page which may have fewer), and a page number, determine the list of item names in the specified page while respecting the item's order. Page numbering starts at 0.
+  Question 2. :- Fetch Item to display (Amazon, online assessment question) Disc	 	:-There will be a list of items in the form of a 2dimensional string array where each element contains [name, relevance, price). Given the sort column, the sort order (0: ascending, 1: descending), the number of items to be displayed on each page (except for the last page which may have fewer), and a page number, determine the list of item names in the specified page while respecting the item's order. Page numbering starts at 0.
   Solution :-https://algo.monster/problems/fetch_items_to_display
 
-  question is grid of 2-D array containing .,# reach End in TIme(Start from Top-Left and need to reach Bottom Right corner.)
+  3. question is grid of 2-D array containing .,# reach End in TIme(Start from Top-Left and need to reach Bottom Right corner.)
    Solution :- https://leetcode.com/discuss/interview-question/976668/chubb-online-placement-reach-the-end-in-time#:~:text=A%202%2DD%20grid%20consisting,is%20in%20an%20unblocked%20cell. 
 
-  Given a URL, design a service that generates a shorter and unique alias for it. When users access a short link, the service should redirect them to the original link. Users should also be able to optionally define the alias for their link (e.g. "https://shorturl/myCustomLink"). If none is provided, the link should be short and pseduorandom hash (not easily guessable). Users should be able to specify the expiration time after which the tiny link no longer functions. If none is provided, links should expire after a standard default timespan. Canvas actions # ffffff Shapes TK Canvas actions 100%
+  4. Given a URL, design a service that generates a shorter and unique alias for it. When users access a short link, the service should redirect them to the original link. Users should also be able to optionally define the alias for their link (e.g. "https://shorturl/myCustomLink"). If none is provided, the link should be short and pseduorandom hash (not easily guessable). Users should be able to specify the expiration time after which the tiny link no longer functions. If none is provided, links should expire after a standard default timespan. Canvas actions # ffffff Shapes TK Canvas actions 100%
 
-  Design URL shortener and explain your design
-  Perform vertical traversal of binary tree.
+  5. Design URL shortener and explain your design
+  6. Perform vertical traversal of binary tree.
+  7. is fizzBuzz hackerrank question.
+  8. to find minimum changes to make two string anagram. 
+  9. explaining the approach for the zig-zag level order binary tree traversal.
+  
 # Bell Canada:-
 
 # Q2:-
