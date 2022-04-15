@@ -310,6 +310,17 @@ Solution:- https://www.geeksforgeeks.org/system-design-url-shortening-service/
 
 Solution:- https://www.geeksforgeeks.org/print-binary-tree-vertical-order-set-2/ 
 
+8. fizzBuzz hackerrank question
+
+Solution:- https://www.geeksforgeeks.org/fizz-buzz-implementation/
+
+9.to find minimum changes to make two string anagram.
+
+Solution:- https://www.geeksforgeeks.org/minimum-number-of-manipulations-required-to-make-two-strings-anagram-without-deletion-of-character/
+
+10. explaining the approach for the zig-zag level order binary tree traversal.
+Solution:- https://www.geeksforgeeks.org/zig-zag-level-order-traversal-of-a-tree-using-single-array/
+
 # Bell Canada:-
 
 # Q2:-
